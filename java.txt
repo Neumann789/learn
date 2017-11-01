@@ -2,3 +2,5 @@ https://juejin.im/post/58eb8e7cb123db1ad06a30eb  计算机程序的思维逻辑 
 
 线程池相关地址:
 http://blog.csdn.net/a314773862/article/details/53898452
+
+http://ifeve.com/java-synchronousqueue/
